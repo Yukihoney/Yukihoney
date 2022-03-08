@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yukihoney
 - 👀 I’m interested in music
-- 🌱 I’m currently learning python and deep learning
+- 🌱 I currently learning python and deep learning
 
 
 <!---
